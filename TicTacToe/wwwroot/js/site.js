@@ -2,7 +2,7 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your Javascript code.
-
+/*
 var turn = "x";
 
 
@@ -51,7 +51,7 @@ function checkForWin() {
             setWinnder(cells[j]);
             return
         }
-    }*/
+    }
     
     return;
 
@@ -81,3 +81,12 @@ for (var i = 0; i < cells.length; i++) {
     cells[i].addEventListener("click", onClick);
 }
 setTurn();
+*/
+
+
+var form = document.ElementbyID
+var cells = document.getElementsByClassName("cell");
+for (var i = 0; i < cells, length; i++) {
+    ce
+
+}
